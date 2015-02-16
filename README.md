@@ -14,7 +14,7 @@ KEY FEATURES OF THE EPC
 - The EPC (Energy Performance Calculator) is an Excel based energy modeling software.
 - Instant results no waiting for calculation results.
 - Reduces a building down to “box”
-- Developed for 20 years at the Georgia Institute of Technology Building Technology Lab.
+- Developed for 20 years by the Georgia Institute of Technology High Performance Building Group.
 - Normative energy calculator defined by ISO 13970 and CEN 15603.
 - Monthly and Hourly versions proven superior to dynamic simulation dynamic simulation methods in ASHRAE 90.1, Appendix G.
 
@@ -30,7 +30,25 @@ http://www.ibpsa.org/proceedings/BS2013/p_1283.pdf
 
 LICENSE
 
-EPC-To-Python started by Patrick Chopson is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Based on a work at https://github.com/pchopson/EPC-To-Python
+EPC-To-Python started by Patrick Chopson is licensed under GNU General Public License.
 
-It means you can copy, distribute and transmit the work or remix it to adapt the work. You can also use it to make commercial use of the work, BUT you must attribute that the work is based on EPC-To-Python. This process will ensure that EPC-To-Python and its future versions will stay free and accessible for everyone.
+EPC - Energy Performance Calculator
+
+Copyright (C) 2008-2015  High Performance Building Group
+245 4th St. NW, Atlanta, GA 30332, USA
+
+Contact Person: Fried Augenbroe (fried.augenbroe@coa.gatech.edu)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You can obtain a full copy of the license document from
+http://www.gnu.org/licenses
+
 
